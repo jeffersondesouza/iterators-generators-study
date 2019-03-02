@@ -1,0 +1,11 @@
+{
+  "presets": [
+    "es2015",
+  ],
+  "plugins": [
+    "transform-async-generator-functions",
+    "transform-regenerator",
+    "transform-runtime",
+    "transform-async-to-generator"
+  ]
+}
