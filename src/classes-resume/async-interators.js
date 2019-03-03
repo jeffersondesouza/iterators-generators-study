@@ -1,4 +1,4 @@
-const createStore = require('./fake-store-async');
+const createStore = require('../fake-store-async');
 
 const store = createStore();
 

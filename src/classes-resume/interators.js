@@ -1,4 +1,4 @@
-const makeDrangon = require('./makeDrangon');
+const makeDrangon = require('../makeDrangon');
 
 function* someDragons() {
   yield makeDrangon();
